@@ -201,4 +201,4 @@ console.log(joe.scopeArrow());
 //
 // 3. Explain why "this" is different when an arrow function is used. 
 // The contectual this cannot be put into a arrow function so when this is being called it is pulling everything.
-//
+// Completed for branch
